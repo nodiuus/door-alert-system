@@ -2,7 +2,7 @@
 An alert system that detects if patients with a certain RFID band are trying to leave the assisted living facility I worked at.
 The system also shows what card was swiped in and where.
 
-I made this system alongside @Zidanni
+I made this system alongside @zClerigo
 
 This web app works alongside the DXAccess door management software.
 
